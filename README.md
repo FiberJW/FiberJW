@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**FiberJW/FiberJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center" style="font-weight:600">こんにちは ✌🏾</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Thanks for visiting my profile! As a reward, here's a cute anime girl:</p>
+
+<p align="center">
+  <img alt="Suzukaze Aoba" src="./banner.gif">
+</p>
+
+#### 👨🏾‍💻 What I Do:
+
+- I'm currently working at [Expo](https://expo.io) on mostly design+front-end things for our managed services.
+- When I'm not working [out], I'm either [playing VALORANT](https://clips.twitch.tv/UnusualPlayfulSashimiEleGiggle) or [watching anime](https://anilist.co/user/fiberjw/).
+- I love doing stuff with React [Native] and coming up with my own designs to implement!
+  - My current toy is [Goodweebs](https://github.com/fiberjw/goodweebs), a mobile client for AniList.co.
+
+#### 🤪 Fun Facts
+
+- I did my first software dev internship at 16yo
+- My Wizarding World placements:
+  - house: Hufflepuff
+  - wand: Larch wood with a unicorn hair core, 12 ¼" and rigid flexibility
+  - Patronus: Hedgehog
+- I'm left-handed
+- My personality is INTP-A
+- I studied Japanese from grade 5-11
+- I'm the fastest person at [Expo](https://twitter.com/expo)
+- I reached Master in Overwatch
+- An DJ once played [my music](https://soundcloud.com/phuturecollective/datwheat-pebbles) live at a club
+
+
+#### 📱 How to contact me
+
+Discord is the best way to contact me. If you want to hit me up, I'm `FiberJW#2020` there. You could also Twitter DM me [@FiberJW](https://twitter.com/FiberJW), but I disabled notifications from that app.
