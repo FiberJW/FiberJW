@@ -1,12 +1,10 @@
+### こんにちは ✌🏾
 
-
-<h3 align="center" style="font-weight:600">こんにちは ✌🏾</h3>
-
-<p align="center">Thanks for visiting my profile! As a reward, here's a cute anime girl:</p>
-
-<p align="center">
-  <img alt="Suzukaze Aoba" src="https://raw.githubusercontent.com/FiberJW/FiberJW/master/banner.gif">
-</p>
+<details>
+ <summary>Thanks for visiting my profile! As a reward, here's a cute anime girl:</summary>
+  <br />
+  <img alt="Suzukaze Aoba" src="https://raw.githubusercontent.com/FiberJW/FiberJW/master/banner.gif" />
+</details>
 
 #### 👨🏾‍💻 What I Do:
 
