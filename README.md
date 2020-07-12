@@ -5,7 +5,7 @@
 <p align="center">Thanks for visiting my profile! As a reward, here's a cute anime girl:</p>
 
 <p align="center">
-  <img alt="Suzukaze Aoba" src="./banner.gif">
+  <img alt="Suzukaze Aoba" src="https://raw.githubusercontent.com/FiberJW/FiberJW/master/banner.gif">
 </p>
 
 #### 👨🏾‍💻 What I Do:
