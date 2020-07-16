@@ -9,7 +9,7 @@
 #### 👨🏾‍💻 What I Do:
 
 - I'm currently working at [Expo](https://expo.io) on mostly design+front-end things for our managed services.
-- When I'm not working [out], I'm either [playing VALORANT](https://clips.twitch.tv/UnusualPlayfulSashimiEleGiggle) or [watching anime](https://anilist.co/user/fiberjw/).
+- When I'm not working [out], I'm either [playing FPS games](https://clips.twitch.tv/UnusualPlayfulSashimiEleGiggle) or [watching anime](https://anilist.co/user/fiberjw/).
 - I love doing stuff with React [Native] and coming up with my own designs to implement!
   - My current toy is [Goodweebs](https://github.com/fiberjw/goodweebs), a mobile client for AniList.co.
 
