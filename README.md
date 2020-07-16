@@ -1,7 +1,7 @@
 ### こんにちは ✌🏾
 
 <details>
- <summary>Thanks for visiting my profile! As a reward, here's a cute anime girl:</summary>
+ <summary>Thanks for stopping by! As a reward, click this to see a cute anime girl 👇🏾</summary>
   <br />
   <img alt="Suzukaze Aoba" src="https://raw.githubusercontent.com/FiberJW/FiberJW/master/banner.gif" />
 </details>
@@ -13,7 +13,10 @@
 - I love doing stuff with React [Native] and coming up with my own designs to implement!
   - My current toy is [Goodweebs](https://github.com/fiberjw/goodweebs), a mobile client for AniList.co.
 
-#### 🤪 Fun Facts
+<div style="display:flex; flex-direction: row; align-items:center;">
+ <img alt="PogU" src="https://cdn.frankerfacez.com/emoticon/256055/4" width="24px" height="24px" style="display: inline-block"/>
+ <h4 style="display: inline-block"> Fun Facts</h4>
+</div>
 
 - I did my first software dev internship at 16yo
 - My Wizarding World placements:
