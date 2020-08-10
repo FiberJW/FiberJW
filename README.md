@@ -15,7 +15,7 @@
 
 #### 😜 Fun facts
 
-- I did my first software dev internship at 16yo
+- I became a professional software developer at 16yo
 - My Wizarding World placements:
   - house: Hufflepuff
   - wand: Larch wood with a unicorn hair core, 12 ¼" and rigid flexibility
@@ -25,7 +25,7 @@
 - I studied Japanese from grade 5-11
 - I'm the fastest person at [Expo](https://twitter.com/expo)
 - I reached Master in Overwatch
-- An DJ once played [my music](https://soundcloud.com/phuturecollective/datwheat-pebbles) live at a club
+- A DJ once played [my music](https://soundcloud.com/phuturecollective/datwheat-pebbles) live at a club
 
 
 #### 📱 How to contact me
