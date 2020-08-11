@@ -24,7 +24,7 @@
 - My personality is INTP-A
 - I studied Japanese from grade 5-11
 - I'm the fastest person at [Expo](https://twitter.com/expo)
-- I reached Master in Overwatch
+- I reached the "Master" rank in Overwatch
 - A DJ once played [my music](https://soundcloud.com/phuturecollective/datwheat-pebbles) live at a club
 
 
