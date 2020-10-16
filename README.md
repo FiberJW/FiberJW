@@ -30,4 +30,4 @@
 
 #### 📱 How to contact me
 
-[Discord](https://discord.com) is the best way to contact me. If you want to hit me up, I'm `FiberJW#2020` there. You could also Twitter DM me [@FiberJW](https://twitter.com/FiberJW), but I disabled notifications from that app.
+[Discord](https://discord.com) is the best way to contact me. If you want to hit me up, I'm `FiberJW#2121` there. You could also Twitter DM me [@FiberJW](https://twitter.com/FiberJW), but I disabled notifications from that app.
