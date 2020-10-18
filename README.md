@@ -1,7 +1,7 @@
 ### こんにちは ✌🏾
 
 <details>
- <summary>Thanks for stopping by! As a reward, click this to see a cute anime girl 👇🏾</summary>
+ <summary>Thanks for stopping by! As a reward, click this 👇🏾</summary>
   <br />
   <img alt="Suzukaze Aoba" src="https://raw.githubusercontent.com/FiberJW/FiberJW/master/banner.gif" />
 </details>
