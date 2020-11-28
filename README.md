@@ -16,12 +16,12 @@
 #### 😜 Fun facts
 
 - I became a professional software developer at 16yo
-- My Wizarding World placements:
-  - house: Hufflepuff
-  - wand: Larch wood with a unicorn hair core, 12 ¼" and rigid flexibility
-  - Patronus: Hedgehog
+- My Wizarding World placements are:
+  - house: Gryffindor
+  - wand: Black walnut wood with a phoenix feather core, 12 ¼" and unyielding flexibility
+  - Patronus: Tonkinese Cat
 - I'm left-handed
-- My personality is INTP-A
+- I'm INTP-A
 - I studied Japanese from grade 5-11
 - I'm the fastest person at [Expo](https://twitter.com/expo)
 - I reached the "Master" rank in Overwatch
