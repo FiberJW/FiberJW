@@ -8,7 +8,7 @@
 
 #### 👨🏾‍💻 What I do
 
-- I'm currently working at [Expo](https://expo.io) on mostly design+front-end things for our managed services.
+- I'm currently working at [Expo](https://expo.io) on [EAS](https://expo.io/eas).
 - When I'm not working [out] or learning, I'm probably [watching anime](https://anilist.co/user/fiberjw/).
 - I love doing stuff with React [Native] and coming up with my own designs to implement!
   - My current toy is [Goodweebs](https://github.com/fiberjw/goodweebs), a mobile client for AniList.co.
