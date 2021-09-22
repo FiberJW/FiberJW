@@ -1,11 +1,5 @@
 ### こんにちは ✌🏾
 
-<details>
- <summary>Thanks for stopping by! As a reward, click this 👇🏾</summary>
-  <br />
-  <img alt="Suzukaze Aoba" src="https://raw.githubusercontent.com/FiberJW/FiberJW/master/banner.gif" />
-</details>
-
 #### 👨🏾‍💻 What I do
 
 - I'm currently working at [Expo](https://expo.io) on [EAS](https://expo.io/eas).
