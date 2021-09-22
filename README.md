@@ -1,5 +1,3 @@
-### こんにちは ✌🏾
-
 #### 👨🏾‍💻 What I do
 
 - I'm currently working at [Expo](https://expo.io) on [EAS](https://expo.io/eas).
