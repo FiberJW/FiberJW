@@ -9,7 +9,7 @@
 
 - I became a professional software developer at 16yo
 - I'm left-handed
-- I'm INTP-A
+- I'm an INTP-A
 - I studied Japanese from grade 5-11
 - I'm the fastest person at [Expo](https://twitter.com/expo)
 - I reached the "Master" rank in Overwatch
