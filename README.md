@@ -8,10 +8,6 @@
 #### 😜 Fun facts
 
 - I became a professional software developer at 16yo
-- My Wizarding World placements are:
-  - house: Gryffindor
-  - wand: Black walnut wood with a phoenix feather core, 12 ¼" and unyielding flexibility
-  - Patronus: Tonkinese Cat
 - I'm left-handed
 - I'm INTP-A
 - I studied Japanese from grade 5-11
