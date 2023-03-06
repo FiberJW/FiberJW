@@ -1,19 +1,11 @@
-#### 👨🏾‍💻 What I do
+#### 👨🏾‍💻 Who am I?
 
-- I'm currently working at [Expo](https://expo.io) on [EAS](https://expo.io/eas).
-- When I'm not working, I'm probably [watching anime](https://anilist.co/user/fiberjw/).
-- I love building things with React [Native] and coming up with my own designs to implement!
-  - My current toy is [Goodweebs](https://github.com/fiberjw/goodweebs), a mobile client for AniList.co.
-
-#### 😜 Fun facts
-
-- I became a professional software developer at 16yo
-- I studied Japanese for 7 years
-- I'm the fastest person at [Expo](https://twitter.com/expo)
-- I reached the "Master" rank in Overwatch
-- A DJ once played [my music](https://soundcloud.com/phuturecollective/datwheat-pebbles) live at a club
-
+- Hi, I'm Juwan, and I'm currently working at [Expo](https://expo.dev) on [EAS](https://expo.dev/eas)!
+- I love designing apps and building them with React [Native]!
+  - My current toy is [Goodweebs](https://github.com/fiberjw/goodweebs), a mobile client for the anime tracking website, [AniList.co](https://anilist.co).
+- I like to [watch anime](https://anilist.co/user/fiberjw/) and exercise in my free time -- often doing both at the same time, lol.
+  - My favorites are Initial D, Steins;Gate, New Game, and I Want to Eat Your Pancreas (yes, this is the real title of a movie)!
 
 #### 📱 How to contact me
 
-If you want to reach out to me, you can Twitter DM me [@FiberJW](https://twitter.com/FiberJW) or email me [juwan@fiberjw.com](mailto:juwan@fiberjw.com).
+If you want to reach out, DM me on Twitter [@FiberJW](https://twitter.com/FiberJW) or email me [juwan@fiberjw.com](mailto:juwan@fiberjw.com).
