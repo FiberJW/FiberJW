@@ -2,9 +2,8 @@
 
 - Hi, I'm Juwan, and I'm currently working at [Expo](https://expo.dev) on [EAS](https://expo.dev/eas)!
 - I love designing apps and building them with React [Native]!
-  - My current toy is [Goodweebs](https://github.com/fiberjw/goodweebs), a mobile client for the anime tracking website, [AniList.co](https://anilist.co).
-- I like to [watch anime](https://anilist.co/user/fiberjw/) and exercise in my free time -- often doing both at the same time, lol.
-  - My favorites are Initial D, Steins;Gate, New Game, and I Want to Eat Your Pancreas (yes, this is the real title of a movie)!
+  - My current toy is [Goodweebs](https://github.com/fiberjw/goodweebs), a mobile client for the anime tracking website [AniList.co](https://anilist.co).
+- I like to [watch anime](https://anilist.co/user/fiberjw/) and exercise in my free time -- often doing both at the same time.
 
 #### 📱 How to contact me
 
