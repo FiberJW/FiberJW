@@ -6,4 +6,4 @@
 
 #### 📱 How to contact me
 
-If you want to reach out, DM me on Twitter [@FiberJW](https://twitter.com/FiberJW) or email me [juwan@fiberjw.com](mailto:juwan@fiberjw.com).
+If you want to reach out, DM me on Twitter [@juwwwan](https://x.com/juwwwan) or email me [juwan@fiberjw.com](mailto:juwan@fiberjw.com).
